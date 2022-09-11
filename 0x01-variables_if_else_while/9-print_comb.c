@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Printing all possibke combination of single digit numbers using commas and space.
+ * main - Printing single digit numbers using commas and space.
  *
  * Return: always 0 (success)
  */
