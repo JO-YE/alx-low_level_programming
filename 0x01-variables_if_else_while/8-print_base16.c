@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Print numbers of base 16, 0 to 9 and lower case a to f
+ * main - Print numbers of base 16, 0 to 9 and lower case a to f.
  *
- * return: always 0 (success)
+ * Return: always 0 (success)
  */
 int main(void)
 {
