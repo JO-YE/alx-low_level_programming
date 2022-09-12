@@ -26,3 +26,9 @@ You can only use the putchar function (every other function (printf, puts, etcâ€
 8 - Hexadecimal - Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.You can only use the putchar function.
 
 9 - Patience, persistence and perspiration make an unbeatable combination for success - Write a program that prints all possible combinations of single-digit numbers.%) Numbers must be separated by ,, followed by a space
+
+10- Inventing is a combination of brains and materials. The more brains you use, the less material you need. Write a program that prints all possible different combinations of two digits. Numbers must be separated by ,, followed by a space.
+
+11- The success combination in business is: Do what you do better... and: do more of what you do...Write a program that prints all possible different combinations of three digits. Numbers must be separated by ,, followed by a space.
+
+12- Software is eating the World- Write a program that prints all possible combinations of two two-digit numbers.
