@@ -5,8 +5,10 @@
  *
  * Return: always 0 (success)
  */
-int _putchar(char c)
+int main(void)
 {
-	_putchar(c);
+	char ch;
+	ch = getchar ();
+	_putchar (ch);
 	return (0);
 }
