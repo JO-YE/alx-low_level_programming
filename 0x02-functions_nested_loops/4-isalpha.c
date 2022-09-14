@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isalpha - function that checks for alphabetic character both lower and uppercase
+ * _isalpha - function that checks for alphabetic character both cases
  *
  * @c: The character in ASCII code
  *
