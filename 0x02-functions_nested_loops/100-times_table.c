@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_times_table - a function that prints the n times table, starting with 0.
+ * print_times_table - a function that prints the n times table
  *
  * @n: number times table (0 < n <= 15)
  *
@@ -20,11 +20,11 @@ void print_times_table(int n)
 				c = a * b;
 				_putchar(',');
 				_putchar(' ');
-				if (c <= 9)
+				if (l <= 9)
 				{
-					 _putchar(' ');
-					  _putchar(' ');
-					  _putchar(c + '0');
+					_putchar(' ');
+					_putchar(' ');
+					_putchar(c + '0');
 				}
 				else if (c <= 99)
 				{
