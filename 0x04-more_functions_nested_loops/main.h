@@ -20,4 +20,5 @@ void print_numbers(void);
 void print_most_numbers(void);
 int _putchar (char ch);
 void more_numbers(void);
+void print_line(int n);
 #endif /* _MAIN_H_ */
