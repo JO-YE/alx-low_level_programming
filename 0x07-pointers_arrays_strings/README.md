@@ -9,10 +9,14 @@ Write a function that copies memory area
 Write a function that locates a character in a string
 3. strspn
 Write a function that gets the length of a prefix substring..
+4. strpbrk
+Write a function that searches a string for any of a set of bytes.
 
-# Resources links
+##Resources links
 0. https://linux.die.net/man/3/memset 
 1. https://man7.org/linux/man-pages/man3/memcpy.3.html
 2. https://man7.org/linux/man-pages/man3/strchr.3.html
 3. https://man7.org/linux/man-pages/man3/strspn.3p.html
+4. https://man7.org/linux/man-pages/man3/strpbrk.3.html
+
 ## My Thoughts
