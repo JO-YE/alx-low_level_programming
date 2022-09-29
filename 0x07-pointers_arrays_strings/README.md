@@ -1,18 +1,22 @@
 # 0x07. C - Even more pointers, arrays and strings
 
 ## Tasks
-0. memset 
+###  memset 
 Write a function that fills memory with a constant bytes.
-1. memcpy
+###  memcpy
 Write a function that copies memory area
-2. strchr
+### strchr
 Write a function that locates a character in a string
-3. strspn
+### strspn
 Write a function that gets the length of a prefix substring..
-4. strpbrk
+### strpbrk
 Write a function that searches a string for any of a set of bytes.
+### strstr
+Write a function that locates a substring
+### Chess is mental torture
+Write a function that prints the chessboard.
 
-##Resources links
+## Resources links
 *	https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm
 *	https://alx-intranet.hbtn.io/concepts/60
 *	https://alx-intranet.hbtn.io/rltoken/ojr7OUUm2I-MULE4lWlrkg
