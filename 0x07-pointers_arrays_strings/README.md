@@ -17,6 +17,8 @@ Write a function that locates a substring
 Write a function that prints the chessboard.
 ### The line of life is a ragged diagonal between duty and desire
 Write a function that prints the sum of the two diagonals of a square matrix of integers.
+### Double pointer, double fun
+Write a function that sets the value of a pointer to a char.
 
 # Resources links
 *	https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm
