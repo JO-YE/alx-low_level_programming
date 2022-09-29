@@ -22,10 +22,9 @@ Write a function that sets the value of a pointer to a char.
 
 # Resources links
 *	https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm
-*	https://alx-intranet.hbtn.io/concepts/60
-*	https://alx-intranet.hbtn.io/rltoken/ojr7OUUm2I-MULE4lWlrkg
-*	https://alx-intranet.hbtn.io/rltoken/HUZIJ6t55KM7d7FBCwWm8Q
-*	https://alx-intranet.hbtn.io/rltoken/Dx9nIBRj68sRBGe2NRI_aQ
+*	https://beginnersbook.com/2014/01/c-pointer-to-pointer/
+*	https://www.tutorialspoint.com/cprogramming/c_multi_dimensional_arrays.htm
+*	https://beginnersbook.com/2014/01/2d-arrays-in-c-example/
 
 0. https://linux.die.net/man/3/memset 
 1. https://man7.org/linux/man-pages/man3/memcpy.3.html
