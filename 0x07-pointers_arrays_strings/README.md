@@ -1,6 +1,6 @@
 # 0x07. C - Even more pointers, arrays and strings
 
-## Tasks
+# Tasks
 ###  memset 
 Write a function that fills memory with a constant bytes.
 ###  memcpy
@@ -15,8 +15,10 @@ Write a function that searches a string for any of a set of bytes.
 Write a function that locates a substring
 ### Chess is mental torture
 Write a function that prints the chessboard.
+### The line of life is a ragged diagonal between duty and desire
+Write a function that prints the sum of the two diagonals of a square matrix of integers.
 
-## Resources links
+# Resources links
 *	https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm
 *	https://alx-intranet.hbtn.io/concepts/60
 *	https://alx-intranet.hbtn.io/rltoken/ojr7OUUm2I-MULE4lWlrkg
@@ -29,4 +31,4 @@ Write a function that prints the chessboard.
 3. https://man7.org/linux/man-pages/man3/strspn.3p.html
 4. https://man7.org/linux/man-pages/man3/strpbrk.3.html
 
-## My Thoughts
+# My Thoughts
