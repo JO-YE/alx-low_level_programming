@@ -5,7 +5,8 @@
 *	Write a program that prints its name, followed by a new line.
 ### Silence is argument carried out by other means
 *	Write a program that prints the number of arguments passed into it.
-
+### Neither irony nor sarcasm is argument
+*	Write a program that multiplies two numbers.
 
 
 # Resources Link
