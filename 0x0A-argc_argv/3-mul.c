@@ -4,7 +4,7 @@
  * main - multiplies two numbers
  * @argc: number of command line arguments.
  * @argv: array that contains the program command line arguments
- * Return: 0 - success.
+ * Return: 0 on success, 1 on failure
  */
 int main(int argc, char *argv[])
 {
