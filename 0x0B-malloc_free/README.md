@@ -14,6 +14,11 @@ The _strdup() function returns a pointer to a new string which is a duplicate of
 Returns NULL if str = NULL
 On success, the _strdup function returns a pointer to the duplicated string. It returns NULL if insufficient memory was available
 
+### He who is not courageous enough to take risks will accomplish nothing in life
+*	Write a function that concatenates two strings.
+
+### If you even dream of beating me you'd better wake up and apologize
+*	Write a function that returns a pointer to a 2 dimensional array of integers.
 # Resources link
 
 
