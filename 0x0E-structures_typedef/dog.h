@@ -1,9 +1,9 @@
 #ifndef DOG_H
 #define DOG_H
 
-/* dg - Typedef for struct dog */
+/* dog_t - Typedef for struct dog */
 
-typedef struct dog dg;
+typedef struct dog dog_t;
 
 /**
  * struct dog - struct that stores some information of a dog
