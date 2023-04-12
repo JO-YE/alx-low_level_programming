@@ -1,13 +1,12 @@
 #include "search_algos.h"
 
-/*
-* linear - a func that searches for a value in an array
-* @array- pointer to the first element of the array to search in
-* @size - is the number of the element of the array
-* @value - the value to serch for
+/**
+* linear_search - a func that searches for a value in an array
+* @array: pointer to the first element of the array to search in
+* @size: is the number of the element of the array
+* @value: the value to serch for
 *
-* Return: return the first index where the value is located
-* -1 if the value is not present in  array or if array is null
+* Return: return the first index where the value is located else -1
 */
 
 int linear_search(int *array, size_t size, int value)
