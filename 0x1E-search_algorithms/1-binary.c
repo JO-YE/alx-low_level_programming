@@ -5,7 +5,7 @@
 * @array: is a pointer to the first element of the array to search in
 * @size: is the number of elements in array
 * @value: is the value to search in array
-* 
+*
 * Return: return the value else -1
 */
 
@@ -29,5 +29,5 @@ int binary_search(int *array, size_t size, int value)
 	/* egde cases condition */
 	if (array[high] == value)
 		return (high);
-	return(-1);
+	return (-1);
 }
