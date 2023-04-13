@@ -1,8 +1,8 @@
 # 0x1E. C - Search Algorithms
 
 ## links
-[search algorithm](https://en.wikipedia.org/wiki/Search_algorithm)
-[space complexity](https://www.geeksforgeeks.org/g-fact-86/)
+- [search algorithm](https://en.wikipedia.org/wiki/Search_algorithm)
+- [space complexity](https://www.geeksforgeeks.org/g-fact-86/)
 
 ## General
 > What is a search algorithm
