@@ -93,4 +93,33 @@ int main(void)
 }
 ```
 
+2. [2-O](./2-O)
+> What is the time complexity (worst case) of a linear search in an array of size n?
+
+3. [3-O](./3-O)
+> What is the space complexity (worst case) of an iterative linear search algorithm in an array of size n?
+
+4. [4-O](./4-O)
+> What is the time complexity (worst case) of a binary search in an array of size n?
+
+5. [5-O](./5-O)
+> What is the space complexity (worst case) of a binary search in an array of size n?
+
+6. [6-O](./6-O)
+> What is the space complexity of this function / algorithm?
+```int **allocate_map(int n, int m)
+{
+     int **map;
+
+     map = malloc(sizeof(int *) * n);
+     for (size_t i = 0; i < n; i++)
+     {
+          map[i] = malloc(sizeof(int) * m);
+     }
+     return (map);
+}
+```
+
+8. [101-O](./101-O)
+> What is the time complexity (average case) of a jump search in an array of size n, using step = sqrt(n)?
 
