@@ -1,6 +1,6 @@
 #include "search_algos.h"
 
-/*
+/**
 * prt_array - a func to print an array
 * @array: a pointer to the array
 * @low: the lowest index
